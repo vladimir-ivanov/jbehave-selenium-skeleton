@@ -1,0 +1,5 @@
+#surefire
+#Thu Jun 14 23:17:28 BST 2012
+user.dir=/Users/vladimirivanov/www/jbehave-selenium
+localRepository=/Users/vladimirivanov/.m2/repository
+basedir=/Users/vladimirivanov/www/jbehave-selenium
